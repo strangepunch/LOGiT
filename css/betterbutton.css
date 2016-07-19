@@ -1,0 +1,11 @@
+.betterbutton{
+	position:relative;
+	vertical-align: bottom;
+}
+*:focus {
+    outline: 0 !important;
+}
+
+.betterbutton .innerName{
+	font-size:1em;
+}

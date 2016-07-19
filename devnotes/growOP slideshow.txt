@@ -1,0 +1,6 @@
+growOP slideshow
+
+1. make sure all photos are the same size and orientation
+2. insert them into array that will be used to populate slideshow view code 
+3. create html view that displays the new list and add the new slideshow to the list of slideshows
+4. create a button (or some other way) for the user to access the new slideshow

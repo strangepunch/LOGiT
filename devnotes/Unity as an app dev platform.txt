@@ -1,0 +1,14 @@
+Unity as an app dev platform
+
+1. great for screen by screen animation of object to object interaction
+2. not great for access to platform specific functions (ios/android photos, ui elements etc)
+3. strives to run at max frameworks at all times even when no events are occuring so battery power takes a hit
+4. not really designed with UI in mind so more code may have to be written to compensate
+5. web based frameworks are more efficient since the user is only using a "web browser" which most phones can run anyway
+6. mainly designed for constant motion and interaction between objects
+
+This makes it a possibility for:
+1. multimedia
+2. childrens books
+3. games
+4. navigable environments 

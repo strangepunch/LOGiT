@@ -1,0 +1,4 @@
+mongodb://<dbuser>:<dbpassword>@ds015879.mlab.com:15879/growopdailylog
+
+so to connect:
+mongodb://2gfdevuser:2geeseflying@ds015879.mlab.com:15879/growopdailylog

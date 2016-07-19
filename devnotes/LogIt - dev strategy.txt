@@ -1,0 +1,28 @@
+LogIt - dev strategy
+
+1. make the log the central storage object
++ adds each new log with data attached to it (one piece of which is the profile name)effects and -taste are filters in the logs and if not foudn there in the strains json object effect attribute
+-possibly create two new arrays to contain the effect and taste attributes to speed up response
+example: 
+{
+  "strainName" : "Jack Herer",
+  "effects" : {"energetic", "creative", "productive"}
+},
+{
+  "strainName" : "Girl Scout Cookies",
+  "effects" : {"peaceful", "giggly", "hungry"}
+}
+
+
+
+proposed flow - 
+main choices would be: 
+
++log 
+- adds an entry to the current users log
+
+choose an effect 
+- lets the user select a desired effect and the app will 
+
+choose a flavor - personal logs searched first, then default db
+- lets the user select a desired flavor - personal logs searched first, then default db

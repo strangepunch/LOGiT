@@ -1,0 +1,4 @@
+export song structures from cubase with drums pre-arranged in the same pattern as a visual reference
+
+possibly use audio as part of video track which accompanies the rythym track indicating where the player is in the structure
+

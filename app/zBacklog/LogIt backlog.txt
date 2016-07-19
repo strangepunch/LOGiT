@@ -1,0 +1,12 @@
+LogIt backlog
+
+
+1. make add new Plant screen default - remove code that brings up all log objects by default (make this a selection from the popup menu?)
+2. comment out listing of plants code in this view until activated by popup 
+3. remove menu system
+4. add new plant screen needs to be 3 screens and final screen has function that is currently applied to the "Add" button
+5. auto save date/time stamp in each log entry
+6. remove display of all plants at bottom of add new plant view
+7. when strain is selected dereference possible effects for that strain and let the user select from that list? (make see all an option?) - this might save time
+
+

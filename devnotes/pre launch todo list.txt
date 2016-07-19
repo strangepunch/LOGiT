@@ -1,0 +1,17 @@
+pre launch todo list
+
+1. get legal statement approved by lawyer ($?)
+2. incorporate in Delaware as LLC (~100)
+3. get apple dev license (~100)
+4. compile latest version of tempz and test on iphones and ipads
+5. get marketing materials ready and start facebook and tumblr campaign 
+6. get xcode on Jessica's Mac and find out what's needed to "package" Tempz for submission to App store
+7. get magnetic stickers made for beta testers (choose, create eps, estimate, submit)
+8. plan events to celebrate the launch (public)
+9. plan feedback channel, schedule and polite responses
+10. submit app to app store and follow approval process
+11. plan launch party (private)
+12. press release in northwest and colorado papers
+13. add or press release to high times
+14. begin ongoing marketing campaign series (tumblr series, instagram, facebook, twitter channel, live events, public beta with A/B testing)
+15. 

@@ -1,0 +1,4461 @@
+ [{
+	"grow": 1,
+	"rooms": [
+				{
+					"roomID": 1,
+					"enviroment":{
+									"env_desc": "",
+									"env_type": "",
+									"env_scehdule": [
+														{
+															"week": "0",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 2,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 3,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 4,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 5,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 6,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 7,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}
+																		]
+														}, {
+															"week": "0B",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 2,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 3,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 4,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 5,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":90,
+																		 			"roomLight":80,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"seeds in incubator, soil watered on 2 day a week schedule for burn in",
+																		 			"entryTime":"11:55:45:130",
+																		 			"entryDate":"2016/1/15"
+																		 		}]
+																			}, {
+																				"day": 6,
+																				"data": [{
+																		 			"roomTemp":77,
+																		 			"roomHumidity":67,
+																		 			"roomLight":24,
+																		 			"totalWater":0,
+																		 			"totalPPM":0,
+																		 			"totalPH":0,
+																		 			"timeOfDay":"morning",
+																		 			"roomMsg":"first day using the app, soil turned",
+																		 			"entryTime":"9:31:43:252",
+																		 			"entryDate":"2016/1/18"
+																		 		}]
+																			}, {
+																				"day": 7,
+																				"data": [{"roomTemp":"79","roomHumidity":"67","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"0","timeOfDay":null,"roomMsg":"no nutrients or water added \ncfl light lowered to within 1 in of seedlings","entryTime":"11:22:20:846","entryDate":"2016/1/26"}]
+																			}
+																		]
+														}, {
+															"week": "1",
+																				"entries": [{
+																						"day": 1,
+																						"data": [{"roomTemp":"79","roomHumidity":"70","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"7","timeOfDay":null,"roomMsg":"All 4 seedlings look good post transplantation","entryTime":"10:40:50:49","entryDate":"2016/1/27"}]
+																					}, {
+																						"day": 2,
+																						"data": [{"roomTemp":"79","roomHumidity":"70","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"7","timeOfDay":null,"roomMsg":"All 4 seedlings look good post transplantation","entryTime":"10:40:50:49","entryDate":"2016/1/27"}]
+																					}, {
+																						"day": 3,
+																						"data": [{"roomTemp":"79","roomHumidity":"63","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"4 seedlings looking healthy","entryTime":"11:53:39:235","entryDate":"2016/1/29"}]
+																					}, {
+																						"day": 4,
+																						"data": [{"roomTemp":"77","roomHumidity":"66","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"Cleanup done vacuum. Start transition to Halide for DM & JH. Nonsprouts discarded from pot 5. Most seeds never split. Interior very moist. No rooster sprouts yet. Conditions optimal.","entryTime":"10:53:34:376","entryDate":"2016/1/30"}]
+																					}, {
+																						"day": 5,
+																						"data": [{"roomTemp":"77","roomHumidity":"39","roomLight":"100","totalWater":null,"totalPPM":"0","totalPH":"0","timeOfDay":null,"roomMsg":"DM & JH have sprouted from rockwool.","entryTime":"13:10:12:271","entryDate":"2016/1/24"}]
+																					}, {
+																						"day": 6,
+																						"data": [{"roomTemp":"77","roomHumidity":"55","roomLight":"100","totalWater":null,"totalPPM":"7","totalPH":"7","timeOfDay":null,"roomMsg":"Fungal problem in incubator. GSC just sprouted & top of rockwool has colonies of fungus. Transplanted GSC, DM, JH into pots, after GSC seedling was carefully replaced into a new rockwool. Other seeds & pods were placed in a line of soil in the 5th pot. BB 3tsp/g: 370ml applied to CSS. Incubator removed & disinfected. Seedlings left uncovered.","entryTime":"16:2:36:365","entryDate":"2016/1/25"}]
+																					}, {
+																						"day": 7,
+																						"data": [{"roomTemp":"79","roomHumidity":"67","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"0","timeOfDay":null,"roomMsg":"no nutrients or water added \ncfl light lowered to within 1 in of seedlings","entryTime":"11:22:20:846","entryDate":"2016/1/26"}]
+																					}]
+														}, {
+															"week": "2",
+															"entries": [{
+																	"day": 1,
+																	"data": [{"roomTemp":"79","roomHumidity":"70","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"7","timeOfDay":null,"roomMsg":"All 4 seedlings look good post transplantation","entryTime":"10:40:50:49","entryDate":"2016/1/27"}]
+																}, {
+																	"day": 2,
+																	"data": [{"roomTemp":"75","roomHumidity":"61","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"3 new sprouts are doing well with jagged fan leaf development & no visible stress. Misting twice daily. Tea brew started today. Trying to sprout 4 rooster seeds in hopes of filling pot 5 with a female","entryTime":"11:38:29:377","entryDate":"2016/1/28"}]
+																}, {
+																	"day": 3,
+																	"data": [{"roomTemp":"79","roomHumidity":"63","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"4 seedlings looking healthy","entryTime":"11:53:39:235","entryDate":"2016/1/29"}]
+																}, {
+																	"day": 4,
+																	"data": [{"roomTemp":"77","roomHumidity":"66","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"Cleanup done vacuum. Start transition to Halide for DM & JH. Nonsprouts discarded from pot 5. Most seeds never split. Interior very moist. No rooster sprouts yet. Conditions optimal.","entryTime":"10:53:34:376","entryDate":"2016/1/30"}]
+																}, {
+																	"day": 5,
+																	"data": [{"roomTemp":"77","roomHumidity":"63","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"All 4 sprouts are only under halide light now.","entryTime":"7:9:27:869","entryDate":"2016/1/31"}]
+																}, {
+																	"day": 6,
+																	"data": [{"roomTemp":"76","roomHumidity":"67","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"Halide kept 24\" from CSS. Others 30\". Watered with 1.5 g w/ 1 tsp/gal big bloom. 1/2 gal RO water applied to rooster pot. Aeration done. 3 more scarified seeds placed in rockwool","entryTime":"10:17:27:83","entryDate":"2016/2/1"}]
+																}, {
+																	"day": 7,
+																	"data": [{"roomTemp":"72","roomHumidity":"62","roomLight":"24","totalWater":null,"roomMsg":"Good positive growth overall. Warmed to 77°","entryTime":"11:59:12:589","entryDate":"2016/2/2"}]
+																}]
+														}, {
+															"week": "3",
+															"entries": [{
+																	"day": 1,
+																	"data": [{"roomTemp":"75","roomHumidity":"72","roomLight":"24","totalWater":null,"roomMsg":"Good positive growth, arranged for now equal light exposure","entryTime":"13:48:48:158","entryDate":"2016/2/3"}]
+																}, {
+																	"day": 2,
+																	"data": [{"roomTemp":"77","roomHumidity":"61","roomLight":"24","totalWater":null,"roomMsg":"Conditions seem consistently optimal for vegetative growing","entryTime":"8:25:21:919","entryDate":"2016/2/4"}]
+																}, {
+																	"day": 3,
+																	"data": [{"roomTemp":"77","roomHumidity":"64","roomLight":"24","totalWater":null,"roomMsg":"1:5 tea diluted with RO on 1-4. Pot 5 full strength tea. CSS ready to FIM. 2 sprouts visible","entryTime":"12:35:4:262","entryDate":"2016/2/5"}]
+																}, {
+																	"day": 4,
+																	"data": [{
+														 			"roomTemp":74,
+														 			"roomHumidity":45,
+														 			"roomLight":24,
+														 			"totalWater":2.5,
+														 			"totalPPM":0,
+														 			"totalPH":0,
+														 			"timeOfDay":"evening",
+														 			"roomMsg":"nothing is going on around here.",
+														 			"entryTime":"11:55:45:130",
+														 			"entryDate":"2016/1/15"
+														 		}]
+																}, {
+																	"day": 5,
+																	"data": [{"roomTemp":"72","roomHumidity":"61","roomLight":"24","totalWater":null,"roomMsg":"3 seedlings now in pot 5","entryTime":"8:58:50:781","entryDate":"2016/2/7"}]
+																}, {
+																	"day": 6,
+																	"data": [{"roomTemp":"75","roomHumidity":"59","roomLight":"24","totalWater":null,"roomMsg":"Aerated all pots. BB 1 tsp/gal pot 5, BB 3tsp/g + GB 1tsp/g all others. Applied fish protein to all plants, 3/4 teaspoon for 1 quart water.","entryTime":"9:44:29:723","entryDate":"2016/2/8"}]
+																}, {
+																	"day": 7,
+																	"data": [{"roomTemp":"73","roomHumidity":"63","roomLight":"24","totalWater":null,"roomMsg":"Looks good. Raised halide 4\" wilted leaves JH&CSS","entryTime":"8:24:59:569","entryDate":"2016/2/9"}]
+																}]
+														}, {
+															"week": "4",
+																			"week": "4",
+																			"entries": [{
+																					"day": 1,
+																					"data": [{"roomTemp":"73","roomHumidity":"63","roomLight":"24","totalWater":null,"roomMsg":"","entryTime":"16:40:56:351","entryDate":"2016/2/10"}]
+																				}, {
+																					"day": 2,
+																					"data": [{"roomTemp":"72","roomHumidity":"58","roomLight":"24","totalWater":null,"roomMsg":"Aeration done, tea started","entryTime":"13:20:34:871","entryDate":"2016/2/11"}]
+																				}, {
+																					"day": 3,
+																					"data": [{"roomTemp":"73","roomHumidity":"52","roomLight":"24","totalWater":null,"roomMsg":"Compost tea applied 1:5 for all\nAll.look good\nPoured fish protiein on JH, CSS, GSC","entryTime":"11:46:38:242","entryDate":"2016/2/12"}]
+																				}, {
+																					"day": 4,
+																					"data": [{"roomTemp":"72","roomHumidity":"68","roomLight":"24","totalWater":null,"roomMsg":"Elevated all pots except 2 on 5\"platform due to height descrepancy.","entryTime":"8:0:53:15","entryDate":"2016/2/13"}]
+																				}, {
+																					"day": 5,
+																					"data": [{"roomTemp":"70","roomHumidity":"61","roomLight":"24","totalWater":null,"roomMsg":"1,3,4,5 on 5\" platform to equalize light exposure with 2. Misting undersides of fans 2-3x/d. Rotating platform pots 2x/d","entryTime":"6:37:36:552","entryDate":"2016/2/14"}]
+																				}, {
+																					"day": 6,
+																					"data": [{"roomTemp":"70","roomHumidity":"54","roomLightHr":"24","roomLightHt":"23","totalWater":null,"nutrients":[{"name":"Grow B.","amt":"1","checked":true},{"name":"Big Bl.","amt":"3","checked":true},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Height discrepancy btwn 2 & others is significant. Platform raised from 5 to 9\" for 1,3,4,5","entryTime":"10:20:14:815","entryDate":"2016/2/15"}]
+																				}, {
+																					"day": 7,
+																					"data": [{"roomTemp":"72","roomHumidity":"64","roomLightHr":"24","roomLightHt":"24","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":"1","checked":true}],"roomMsg":"Protein foliar spray 2x/d","entryTime":"9:14:1:554","entryDate":"2016/2/16"}]
+																				}]
+														}, {
+															"week": "5",
+															"entries": [{
+																	"day": 1,
+																	"data": [{"roomTemp":"72","roomHumidity":"58","roomLightHr":"24","roomLightHt":"24","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":"1","checked":true}],"roomMsg":"Raised light. Was 21\", now 24.","entryTime":"7:38:40:308","entryDate":"2016/2/17"}]
+																}, {
+																	"day": 2,
+																	"data": [{"roomTemp":"72","roomHumidity":"63","roomLightHr":"24","roomLightHt":"22","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"1:5 tea. 2 g total","entryTime":"12:16:31:871","entryDate":"2016/2/19"}]
+																}, {
+																	"day": 3,
+																	"data": [{"roomTemp":"72","roomHumidity":"63","roomLightHr":"24","roomLightHt":"22","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"1:5 tea. 2 g total","entryTime":"12:16:31:871","entryDate":"2016/2/19"}]
+																}, {
+																	"day": 4,
+																	"data": [{"roomTemp":"76","roomHumidity":"73","roomLightHr":"24","roomLightHt":"22","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"All plants look great\nA little insect damage on CSS but nothing serious","entryTime":"12:39:3:84","entryDate":"2016/2/20"}]
+																}, {
+																	"day": 5,
+																	"data": [{"roomTemp":"78","roomHumidity":"50","roomLightHr":"24","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Tolerating lower bulb well. Tips of all 5 are on same plane after LST of CSS. Mist with tea 1:5","entryTime":"8:24:23:92","entryDate":"2016/2/21"}]
+																}, {
+																	"day": 6,
+																	"data": [{"roomTemp":"77","roomHumidity":"52","roomLightHr":"24","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":"1","checked":true},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"First Sea90 flush","entryTime":"8:54:56:666","entryDate":"2016/2/22"}]
+																}, {
+																	"day": 7,
+																	"data": [{"roomTemp":"71","roomHumidity":"66","roomLightHr":"22","roomLightHt":"18","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Raising light, transition to 18-6 lite schedule. Canopy is reasonably level with LST","entryTime":"11:18:15:671","entryDate":"2016/2/23"}]
+																}]
+														}, {
+															"week": "6",
+															"entries": [{
+																	"day": 1,
+																	"data": [{"roomTemp":"77","roomHumidity":"69","roomLightHr":"20","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":"3","checked":true},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Boost of GB with min amt water, mainly for stimulate GSC","entryTime":"9:39:18:737","entryDate":"2016/2/24"}]
+																}, {
+																	"day": 2,
+																	"data": [{"roomTemp":"77","roomHumidity":"43","roomLightHr":"18","roomLightHt":"17","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"soil":[{"name":"Aerate","amt":0,"checked":true}],"roomMsg":"2 more reflective panels hung, for coverage on 3 sides. Tea brewing","entryTime":"20:25:12:834","entryDate":"2016/2/25"}]
+																}, {
+																	"day": 3,
+																	"data": [{"roomTemp":"77","roomHumidity":"50","roomLightHr":"18","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":"3","checked":true},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"soil":[{"name":"Aerate","amt":0,"checked":false}],"roomMsg":"Full veg stage, trying nutes twice a week","entryTime":"11:26:49:671","entryDate":"2016/2/26"}]
+																}, {
+																	"day": 4,
+																	"data": [{"roomTemp":"77","roomHumidity":"50","roomLightHr":"18","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"soil":[{"name":"Aerate","amt":0,"checked":false}],"roomMsg":"Holding everything in veg to let the smaller plants catch up in height\nMay LST","entryTime":"11:51:22:623","entryDate":"2016/2/27"}]
+																}, {
+																	"day": 5,
+																	"data": [{}]
+																}, {
+																	"day": 6,
+																	"data": [{"roomTemp":"77","roomHumidity":"53","roomLightHr":"18","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":"1","checked":true},{"name":"Big Bl.","amt":"4","checked":true},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"soil":[{"name":"Aerate","amt":0,"checked":true}],"roomMsg":"Nute pre-application 1080ppm, pH 6.5","entryTime":"15:14:8:137","entryDate":"2016/2/29"}]
+																}, {
+																	"day": 7,
+																	"data": [{}]
+																}]
+														}, {
+															"week": "7",
+															"entries": [{
+																	"day": 1,
+																	"data": [{}]
+																}, {
+																	"day": 2,
+																	"data": [{}]
+																}, {
+																	"day": 3,
+																	"data": [{}]
+																}, {
+																	"day": 4,
+																	"data": [{}]
+																}, {
+																	"day": 5,
+																	"data": [{}]
+																}, {
+																	"day": 6,
+																	"data": [{}]
+																}, {
+																	"day": 7,
+																	"data": [{}]
+																}]
+														}, {
+															"week": "8",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{}]
+																			}, {
+																				"day": 2,
+																				"data": [{}]
+																			}, {
+																				"day": 3,
+																				"data": [{}]
+																			}, {
+																				"day": 4,
+																				"data": [{}]
+																			}, {
+																				"day": 5,
+																				"data": [{}]
+																			}, {
+																				"day": 6,
+																				"data": [{}]
+																			}, {
+																				"day": 7,
+																				"data": [{}]
+																			}
+																		]
+														}, {
+															"week": "9",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{}]
+																			}, {
+																				"day": 2,
+																				"data": [{}]
+																			}, {
+																				"day": 3,
+																				"data": [{}]
+																			}, {
+																				"day": 4,
+																				"data": [{}]
+																			}, {
+																				"day": 5,
+																				"data": [{}]
+																			}, {
+																				"day": 6,
+																				"data": [{}]
+																			}, {
+																				"day": 7,
+																				"data": [{}]
+																			}
+																		]
+														}, {
+															"week": "10",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{}]
+																			}, {
+																				"day": 2,
+																				"data": [{}]
+																			}, {
+																				"day": 3,
+																				"data": [{}]
+																			}, {
+																				"day": 4,
+																				"data": [{}]
+																			}, {
+																				"day": 5,
+																				"data": [{}]
+																			}, {
+																				"day": 6,
+																				"data": [{}]
+																			}, {
+																				"day": 7,
+																				"data": [{}]
+																			}
+																		]
+														}, {
+															"week": "11",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{}]
+																			}, {
+																				"day": 2,
+																				"data": [{}]
+																			}, {
+																				"day": 3,
+																				"data": [{}]
+																			}, {
+																				"day": 4,
+																				"data": [{}]
+																			}, {
+																				"day": 5,
+																				"data": [{}]
+																			}, {
+																				"day": 6,
+																				"data": [{}]
+																			}, {
+																				"day": 7,
+																				"data": [{}]
+																			}
+																		]
+														}, {
+															"week": "12",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{}]
+																			}, {
+																				"day": 2,
+																				"data": [{}]
+																			}, {
+																				"day": 3,
+																				"data": [{}]
+																			}, {
+																				"day": 4,
+																				"data": [{}]
+																			}, {
+																				"day": 5,
+																				"data": [{}]
+																			}, {
+																				"day": 6,
+																				"data": [{}]
+																			}, {
+																				"day": 7,
+																				"data": [{}]
+																			}
+																		]
+														}, {
+															"week": "13",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{}]
+																			}, {
+																				"day": 2,
+																				"data": [{}]
+																			}, {
+																				"day": 3,
+																				"data": [{}]
+																			}, {
+																				"day": 4,
+																				"data": [{}]
+																			}, {
+																				"day": 5,
+																				"data": [{}]
+																			}, {
+																				"day": 6,
+																				"data": [{}]
+																			}, {
+																				"day": 7,
+																				"data": [{}]
+																			}
+																		]
+														}, {
+															"week": "14",
+															"entries": [
+																			{
+																				"day": 1,
+																				"data": [{}]
+																			}, {
+																				"day": 2,
+																				"data": [{}]
+																			}, {
+																				"day": 3,
+																				"data": [{}]
+																			}, {
+																				"day": 4,
+																				"data": [{}]
+																			}, {
+																				"day": 5,
+																				"data": [{}]
+																			}, {
+																				"day": 6,
+																				"data": [{}]
+																			}, {
+																				"day": 7,
+																				"data": [{}]
+																			}
+																		]
+														}
+													]
+								}
+				}
+			],
+	"plants": [
+				{
+					"plantID": 1,
+					"plantName": "Jack Herer",
+					"plantDesc": "Blackskull",
+					"plantType": "Sativa",
+					"stage": "Vegetative",
+					"start": "01-15-2016",
+					"end": "_endDate_",
+					"img": "images/strains/jack-herer_100x100.jpg", // this shoudl be automatically filled from the strains db before release
+					"plant_scehdule": [
+										{
+											"week": "0",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"
+																	}]
+															}, {
+																"day": 2,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{					"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 7,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}
+														]
+										}, {
+											"week": "0B",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout. Incubator good",
+																	"entryTime":"9:31:43:252",
+																	"entryDate":"2016/1/18"}]
+															}, {
+																"day": 7,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":"4800",
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout",
+																	"entryTime":"15:47:18:348",
+																	"entryDate":"2016/1/19"}]
+															}
+														]
+										}, {
+											"week": "1",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{
+																	"plantWater":1,"plantPPM":"4908","plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"No sprout. 5:1 tea 1/2 gal","entryTime":"13:50:20:544","entryDate":"2016/1/22"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":0,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"00:0:0:000",
+																	"entryDate":"2016/1/23"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":"0","plantPPM":0,"plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"Sprouted last nite. 2 coty leaves. Seed shell removed","entryTime":"13:10:12:932","entryDate":"2016/1/24"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":".5","plantPPM":"4920","plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"Transplanted today into soil due to incubator fungal colonization.","entryTime":"16:2:36:574","entryDate":"2016/1/25"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":"0","plantPPM":"4300","plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"this is now Jack Herer\nthe data that has been captured for this plant represents the soil environment for pot #1","entryTime":"11:22:20:897","entryDate":"2016/1/26"}]
+															}
+														]
+										}, {
+											"week": "2",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"New fan growth overnite. No signs of stress. Mist 3x/day","entryTime":"10:40:50:344","entryDate":"2016/1/27"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"Jagged fan leaves emerging, no signs of stress. Mist 2x/d, cfl @1\"","entryTime":"11:38:29:584","entryDate":"2016/1/28"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".6","plantPPM":"4510","plantPH":"7","plantHeight":"2","plantCond":"great","lightType":"CFL","plantMsg":"Applied 1:10 compost tea after 24 hr brew","entryTime":"11:53:39:438","entryDate":"2016/1/29"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"Positive growth, 2 healthy fans. Placed 36\" from halide, watching closely","entryTime":"10:53:34:595","entryDate":"2016/1/30"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"great","lightType":"afternoon","plantMsg":"Positive leaf & height growth. Moved to 30\" from halide bulb","entryTime":"7:9:28:148","entryDate":"2016/1/31"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.4","plantPPM":"4240","plantPH":"7","plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"Aerated. 1 tsp/g big bloom added. 2 sets leaves. Tolerating halide well at 30\"","entryTime":"17:26:20:970","entryDate":"2016/2/1"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"2 sets leaves, one compound set. 24\" from halide bulb, no wilting","entryTime":"11:59:12:815","entryDate":"2016/2/2"}]
+															}
+														]
+										}, {
+											"week": "3",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"2 tiers leaves","entryTime":"13:48:48:395","entryDate":"2016/2/3"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"3 tiers leaves. Stem is strengthening & thickening","entryTime":"8:25:22:172","entryDate":"2016/2/4"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"4990","plantPH":"7","plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"12:35:4:527","entryDate":"2016/2/5"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"great","lightType":"afternoon","plantMsg":"","entryTime":"8:58:51:38","entryDate":"2016/2/7"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"4610","plantPH":"7","plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"4 tiers leaves","entryTime":"9:44:30:42","entryDate":"2016/2/8"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":7,"plantHeight":"4","plantCond":"good","lightType":"afternoon","plantMsg":"Leaves wilted probably from too much light or too much water from foliar application of fish protein.","entryTime":"8:24:59:569","entryDate":"2016/2/8"}]
+															}
+														]
+										}, {
+											"week": "4",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"FIM done on primary stalk","entryTime":"16:40:56:603","entryDate":"2016/2/10"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"No wilting, tolerated FIM well","entryTime":"13:20:35:151","entryDate":"2016/2/11"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".4","plantPPM":"3230","plantPH":"7","plantHeight":"4","plantCond":"great","lightType":"afternoon","plantMsg":"Recovering well from first fim","entryTime":"11:46:38:431","entryDate":"2016/2/12"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"27\" from bulb now on 5\" platform","entryTime":"8:0:53:382","entryDate":"2016/2/13"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"6:37:36:777","entryDate":"2016/2/14"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"2670","plantPH":"7","plantHeight":"4","plantCond":null,"lightType":null,"lightHt":"25","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"H bulb","entryTime":"10:20:14:985","entryDate":"2016/2/15"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:14:2:15","entryDate":"2016/2/16"}]
+															}
+														]
+										}, {
+											"week": "5",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"Some fan wilting. Raised bulb","entryTime":"7:38:40:607","entryDate":"2016/2/17"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"6","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:31:30:443","entryDate":"2016/2/18"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"2780","plantPH":"7.1","plantHeight":"6","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"12:16:32:294","entryDate":"2016/2/19"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"7","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Low and wide with great new growth","entryTime":"12:39:3:222","entryDate":"2016/2/20"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"7","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":"1","times":"2","checked":true}],"plantMsg":"","entryTime":"8:24:23:654","entryDate":"2016/2/21"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.4","plantPPM":"3880","plantPH":0,"plantHeight":"8","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:2:47:403","entryDate":"2016/2/22"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"10","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"3","times":"2","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":"2","times":"4","checked":true}],"plantMsg":"","entryTime":"11:18:16:68","entryDate":"2016/2/23"}]
+															}
+														]
+										}, {
+											"week": "6",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"10","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"3","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:39:19:47","entryDate":"2016/2/24"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"10","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"20:27:9:745","entryDate":"2016/2/25"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"10","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Nutes with 1:5 tea","entryTime":"11:26:49:974","entryDate":"2016/2/26"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"6.8","plantHeight":"11","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"2","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"11:51:22:930","entryDate":"2016/2/27"}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{
+																	"plantWater":"0.3","plantPPM":"2740","plantPH":0,"plantHeight":"12","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"6","times":"3","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"15:14:8:241","entryDate":"2016/2/29"}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "7",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "8",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "9",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "10",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "11",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "12",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "13",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "14",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}
+									]
+				}, {
+					"plantID": 2,
+					"plantName": "CSS",
+					"plantDesc": "Delicious",
+					"plantType": "Indica",
+					"stage": "Vegetative",
+					"start": "01-15-2016",
+					"end": "_endDate_",
+					"img": "images/strains/critical-sensi-star_100x100.jpg",
+					"plant_scehdule": [
+										{
+											"week": "0",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 7,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}
+														]
+										}, {
+											"week": "0B",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{	 				
+																	"plantWater":1,
+													 				"plantPPM":0,
+													 				"plantPH":0,
+													 				"plantHeight":"2",
+													 				"plantCond":"good",
+													 				"timeOfDay":"morning",
+													 				"plantMsg":"Fan leaves x2 growing under cfl",
+													 				"entryTime":"9:31:43:373",
+													 				"entryDate":"2016/1/18"}]
+															}, {
+																"day": 7,
+																"data": [{	 				
+													 				"plantWater":"1",
+													 				"plantPPM":"4350",
+													 				"plantPH":"7",
+													 				"plantHeight":"2",
+													 				"plantCond":"good",
+													 				"timeOfDay":"morning",
+													 				"plantMsg":"Cotyledon leaves turning brown at tips. New jagged fans look good",
+													 				"entryTime":"15:47:18:482",
+													 				"entryDate":"2016/1/19"}]
+															}
+														]
+										}, {
+											"week": "1",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"1","plantPPM":"3480","plantPH":"7","plantHeight":"2","plantCond":"great","timeOfDay":"afternoon","plantMsg":"1:5tea 1/2gal. Halide 50% 2.5ft yest. Inc to 75% today","entryTime":"13:50:20:652","entryDate":"2016/1/22"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/23"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":"0.1","plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","timeOfDay":"morning","plantMsg":"Responding well to daily mist, 100% halide @2.5'. Some leaf enlargement. 4 present","entryTime":"13:10:12:838","entryDate":"2016/1/24"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":".5","plantPPM":"4200","plantPH":"7","plantHeight":"2","plantCond":"great","timeOfDay":"morning","plantMsg":"First nite BB 3tsp/gal 1/10 gal applied. Halide 100% 2.5'","entryTime":"16:2:36:508","entryDate":"2016/1/25"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":"0","plantPPM":"4300","plantPH":"7","plantHeight":"2","plantCond":"great","timeOfDay":"morning","plantMsg":"doing great\nCSS is growing normally and looks completey healthy","entryTime":"11:22:20:924","entryDate":"2016/1/26"}]
+															}
+														]
+										}, {
+											"week": "2",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"7","plantHeight":"2","plantCond":"good","timeOfDay":"morning","plantMsg":"Light lowered from 30 to 24\". Excellent deep green fan enlargement. No signs of stretching nor stress","entryTime":"10:40:50:471","entryDate":"2016/1/27"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"great","lightType":"afternoon","plantMsg":"2nd tier of jagged fans emerging. Halide at 24\" now, tolerating well. No wilting","entryTime":"11:38:29:694","entryDate":"2016/1/28"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".6","plantPPM":"3600","plantPH":"7","plantHeight":"2","plantCond":"great","lightType":"CFL","plantMsg":"","entryTime":"11:53:39:682","entryDate":"2016/1/29"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"great","lightType":"afternoon","plantMsg":"# & size fans increasing. Very healthy at 24\". Rotating every 6 h","entryTime":"10:53:34:718","entryDate":"2016/1/30"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"great","lightType":"afternoon","plantMsg":"Positive leaf & height growth. Moved to 30\" from halide bulb","entryTime":"7:9:28:148","entryDate":"2016/1/31"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.4","plantPPM":"4750","plantPH":"7","plantHeight":"4","plantCond":"great","lightType":"afternoon","plantMsg":"4 sets leaves. Nutes added Tolerating halide well at 24\" Aerated pre watering","entryTime":"17:26:21:101","entryDate":"2016/2/1"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"great","lightType":"afternoon","plantMsg":"5 sets leaves, sprouts at nodes, 22\" from bulb, no wilting so no changes","entryTime":"11:59:12:941","entryDate":"2016/2/2"}]
+															}
+														]
+										}, {
+											"week": "3",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"great","lightType":"afternoon","plantMsg":"1/2\" growth/day, considerable branching w/o pruning. May be ready to FIM soon","entryTime":"8:25:22:293","entryDate":"2016/2/4"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"great","lightType":"afternoon","plantMsg":"1/2\" growth/day, considerable branching w/o pruning. May be ready to FIM soon","entryTime":"8:25:22:293","entryDate":"2016/2/4"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.44","plantPPM":"2660","plantPH":"7","plantHeight":"5","plantCond":"great","lightType":"afternoon","plantMsg":"FIM done of primary stem","entryTime":"12:35:4:666","entryDate":"2016/2/5"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"7","plantCond":"great","lightType":"afternoon","plantMsg":"Tolerated FIM well","entryTime":"8:58:51:163","entryDate":"2016/2/7"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"4060","plantPH":"7","plantHeight":"8","plantCond":"great","lightType":"afternoon","plantMsg":"Nutes done.","entryTime":"9:44:30:197","entryDate":"2016/2/8"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"8","plantCond":"great","lightType":"afternoon","plantMsg":"Lowest 2 fans removed, shaded since they are totally shaded. FIM site showing new sprouts","entryTime":"8:25:0:101","entryDate":"2016/2/9"}]
+															}
+														]
+										}, {
+											"week": "4",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"9","plantCond":"good","lightType":"afternoon","plantMsg":"Secondary stalks almost ready to FIM","entryTime":"16:40:56:716","entryDate":"2016/2/10"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"9","plantCond":"great","lightType":"afternoon","plantMsg":"FIM done x 5 on lower branches. Some wilting, not severe. Lite at 24\"","entryTime":"13:20:35:292","entryDate":"2016/2/11"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".4","plantPPM":"1080","plantPH":"7","plantHeight":"10","plantCond":"good","lightType":"afternoon","plantMsg":"Insect bites on 2 leaves\nResponding well to FIM","entryTime":"11:46:38:545","entryDate":"2016/2/12"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"11","plantCond":"great","lightType":"afternoon","plantMsg":"FIM done x 1. Pruned 2 lowest fans in shade. Height 1\"/d, with excellent response to FIMs.","entryTime":"8:0:53:520","entryDate":"2016/2/13"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"12","plantCond":"great","lightType":"afternoon","plantMsg":"FIM redone on main tip. Slight wilting at 23\" from bulb. Will raise lite tmrw & raise platform for other pots","entryTime":"6:37:36:947","entryDate":"2016/2/14"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"3590","plantPH":"7","plantHeight":"13","plantCond":"good","lightType":"HPS","lightHt":"23","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:20:15:119","entryDate":"2016/2/15"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"16","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":">12\" taller than others, but not yet ready to place fencing mesh hanging over","entryTime":"9:14:2:185","entryDate":"2016/2/16"}]
+															}
+														]
+										}, {
+											"week": "5",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"16","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"Fan wilting should resolve with raised light","entryTime":"7:38:40:724","entryDate":"2016/2/17"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"19","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:31:30:578","entryDate":"2016/2/18"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"1550","plantPH":"7.2","plantHeight":"20","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"2 lowest fans in shade, pruned","entryTime":"12:16:32:453","entryDate":"2016/2/19"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"18","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":"2","times":0,"checked":true},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"LST to control vertical height","entryTime":"12:39:3:296","entryDate":"2016/2/20"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"19","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Adapting to 90 deg. LST well. Equalizes heights","entryTime":"8:24:23:802","entryDate":"2016/2/21"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.6","plantPPM":"4500","plantPH":0,"plantHeight":"18","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Tolerated LST well","entryTime":"9:2:47:544","entryDate":"2016/2/22"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"18","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":"5","times":"3","checked":true},{"name":"Fan","tier":"6","times":"6","checked":true}],"plantMsg":"","entryTime":"11:18:16:273","entryDate":"2016/2/23"}]
+															}
+														]
+										}, {
+											"week": "6",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"18","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:39:19:165","entryDate":"2016/2/24"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"18","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":"2","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"20:27:9:894","entryDate":"2016/2/25"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"18","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Nutes + tea","entryTime":"11:26:50:82","entryDate":"2016/2/26"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"7","plantHeight":"19","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"2","times":"4","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"11:51:23:71","entryDate":"2016/2/27"}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{					
+																	"plantWater":"0.3","plantPPM":"1930","plantPH":0,"plantHeight":"20","plantCond":"great","lightType":"afternoon","pruning":[{"name":"FIM","tier":"5","times":"5","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"15:14:8:316","entryDate":"2016/2/29"}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "7",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 7,
+																"data": [{																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}
+														]
+										}, {
+											"week": "8",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "9",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "10",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "11",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "12",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "13",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "14",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}
+									]
+				}, {
+					"plantID": 3,
+					"plantName": "Auto Diesel Matic",
+					"plantDesc": "Blackskull",
+					"plantType": "Indica",
+					"stage": "Vegetative",
+					"start": "01-15-2016",
+					"end": "_endDate_",
+					"img": "images/strains/auto-diesel-matic.jpg",
+					"plant_scehdule": [
+										{
+											"week": "0",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 7,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}
+														]
+
+										}, {
+											"week": "0B",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":"04720",
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout",
+																	"entryTime":"15:47:18:556",
+																	"entryDate":"2016/1/19"}]
+															}, {
+																"day": 7,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":"04720",
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout",
+																	"entryTime":"15:47:18:556",
+																	"entryDate":"2016/1/19"}]
+															}
+														]
+										}, {
+											"week": "1",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":1,"plantPPM":"4250","plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"No sprout","entryTime":"13:50:20:730","entryDate":"2016/1/22"}]
+															}, {
+																"day": 4,
+																"data": [{						
+																	"plantWater":0,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"00:0:0:000",
+																	"entryDate":"2016/1/23"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":"0","plantPPM":0,"plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"Sprouted last nite. 2 city leaves. Seed she'll removed","entryTime":"13:10:13:34","entryDate":"2016/1/24"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":".5","plantPPM":"4960","plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"Two day old seedling transplanted into soil with rockwool intact due to incubator fungal colonization.","entryTime":"16:2:36:633","entryDate":"2016/1/25"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":"0","plantPPM":"3850","plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"This is now Auto Diesel Matic\nthe data capture so far for this plant represents the soil environment for pot 3","entryTime":"11:22:20:938","entryDate":"2016/1/26"}]
+															}
+														]
+										}, {
+											"week": "2",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":"0","plantPPM":"3620","plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"This is now Auto GSC\nThe data that was captured for this plant represents the environment for pot 4\n\nThis is the plant that had fungus on the rockwool and is being watched closely after rockwool has been replaced","entryTime":"11:22:20:951","entryDate":"2016/1/26"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"great","lightType":"CFL","plantMsg":"Mist 2x/d. Jagged leaves emerging. No stress","entryTime":"11:45:0:939","entryDate":"2016/1/28"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".6","plantPPM":"3600","plantPH":"7","plantHeight":"2","plantCond":"great","lightType":"CFL","plantMsg":"","entryTime":"11:53:39:682","entryDate":"2016/1/29"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"afternoon","plantMsg":"Placed 48\" from halide, watching closely, 2 nice jagged leaves. Ht 1.5\"","entryTime":"10:53:34:808","entryDate":"2016/1/30"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"great","lightType":"afternoon","plantMsg":"Positive leaf & height growth. 30\" from halide source now","entryTime":"7:9:28:394","entryDate":"2016/1/31"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.4","plantPPM":"3750","plantPH":"7","plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"Tolerating halide at 30\". 2 sets leaves. Aerated. Nutes added","entryTime":"17:26:21:176","entryDate":"2016/2/1"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"2 sets leaves, newest tier is compound, 25\" from bulb, no wilting","entryTime":"11:59:13:27","entryDate":"2016/2/2"}]
+															}
+														]
+										}, {
+											"week": "3",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":null,"plantPPM":null,"plantPH":null,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"2 tiers leaves","entryTime":"13:48:48:595","entryDate":"2016/2/3"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"Some wilting of leaves. Moved from 24\" to 30\" from bulb. Misted soil. No leaf discoloration","entryTime":"8:25:22:368","entryDate":"2016/2/4"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"3580","plantPH":"7","plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"Wilting today, believed to be from too close to bulb. 30\" now, moved to 36\"","entryTime":"12:35:4:762","entryDate":"2016/2/5"}]
+															}, {
+																"day": 4,
+																"data": [{						
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"8:58:51:248","entryDate":"2016/2/7"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"4230","plantPH":"7.2","plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"3 tiers leaves.","entryTime":"9:44:30:304","entryDate":"2016/2/8"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"8:25:0:222","entryDate":"2016/2/9"}]
+															}
+														]
+										}, {
+											"week": "4",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"16:40:56:804","entryDate":"2016/2/10"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"Sprouting new tiers","entryTime":"13:20:35:368","entryDate":"2016/2/11"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".4","plantPPM":"3550","plantPH":"7","plantHeight":"2","plantCond":"great","lightType":"afternoon","plantMsg":"New growth is healthy","entryTime":"11:46:38:676","entryDate":"2016/2/12"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"27\" from bulb on platform.","entryTime":"8:0:53:642","entryDate":"2016/2/13"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","plantMsg":"FIM mainshoot soon","entryTime":"6:37:37:96","entryDate":"2016/2/14"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"5050","plantPH":"7","plantHeight":"5","plantCond":"good","lightType":"CFL","lightHt":"26","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:20:15:206","entryDate":"2016/2/15"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:14:2:281","entryDate":"2016/2/16"}]
+															}
+														]
+										}, {
+											"week": "5",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"7:38:40:819","entryDate":"2016/2/17"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:31:30:656","entryDate":"2016/2/18"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"2220","plantPH":"7.2","plantHeight":"7","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"12:16:32:543","entryDate":"2016/2/19"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"7","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"8 tiers of growth","entryTime":"12:39:3:377","entryDate":"2016/2/20"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"9","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"8:24:23:904","entryDate":"2016/2/21"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.4","plantPPM":"4240","plantPH":0,"plantHeight":"10","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:2:47:625","entryDate":"2016/2/22"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"11","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":"4","times":"2","checked":true},{"name":"Fan","tier":"3","times":"2","checked":true}],"plantMsg":"","entryTime":"11:18:16:371","entryDate":"2016/2/23"}]
+															}
+														]
+										}, {
+											"week": "6",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"12","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":"4","times":"2","checked":true},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:39:19:248","entryDate":"2016/2/24"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"13","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"20:27:9:960","entryDate":"2016/2/25"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"13","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Nutes + tea","entryTime":"11:26:50:161","entryDate":"2016/2/26"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"6.9","plantHeight":"13","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"3","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"11:51:23:153","entryDate":"2016/2/27"}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.3","plantPPM":"1730","plantPH":0,"plantHeight":"15","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"4","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Lowered pot to ground level off of bricks.","entryTime":"15:14:8:384","entryDate":"2016/2/29"}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "7",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "8",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "9",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "10",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "11",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "12",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "13",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "14",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}
+									]
+				}, {
+					"plantID": 4,
+					"plantName": "Auto GirlScout Cookies",
+					"plantDesc": "Fastbuds",
+					"plantType": "Hybrid",
+					"stage": "Vegetative",
+					"start": "01-15-2016",
+					"end": "_endDate_",
+					"img": "images/strains/girl-scout-cookies_100x100.jpg",
+					"plant_scehdule": [
+										{
+											"week": "0",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 7,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}
+														]
+
+										}, {
+											"week": "0B",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout. Soil turned",
+																	"entryTime":"9:31:43:525",
+																	"entryDate":"2016/1/18"}]
+															}, {
+																"day": 7,
+																"data": [{					
+																	"plantWater":1,
+																	"plantPPM":"5170",
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout",
+																	"entryTime":"15:47:18:625",
+																	"entryDate":"2016/1/19"}]
+															}
+														]
+
+										}, {
+											"week": "1",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":1,"plantPPM":"3950","plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"No sprout","entryTime":"13:50:20:785","entryDate":"2016/1/22"}]
+															}, {
+																"day": 4,
+																"data": [{						
+																	"plantWater":0,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"00:0:0:000",
+																	"entryDate":"2016/1/23"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":"0","plantPPM":0,"plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"No sprout yet but ready to come up","entryTime":"13:10:12:678","entryDate":"2016/1/24"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":1,"plantPPM":"4460","plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"Some fungal colonies on old rockwool, seedling transplanted into new rockwool, placed in soil at 1 day old. Cotyledon leaves x2 look good","entryTime":"16:2:36:442","entryDate":"2016/1/25"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":"0","plantPPM":"4300","plantPH":"7","plantHeight":"2","plantCond":"great","timeOfDay":"morning","plantMsg":"doing great\nCSS is growing normally and looks completey healthy","entryTime":"11:22:20:924","entryDate":"2016/1/26"}]
+															}
+														]
+										}, {
+											"week": "2",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"7","plantHeight":"1","plantCond":"good","timeOfDay":"morning","plantMsg":"A little behind other sprouts but fans emerging, no stress.its 3x/d","entryTime":"10:40:50:657","entryDate":"2016/1/27"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"Smallest sprout of them all but jagged leaves emerging. Positive growth with no stress, no fungus. Mist 2x/d","entryTime":"11:45:0:991","entryDate":"2016/1/28"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".6","plantPPM":"5560","plantPH":"7","plantHeight":"2","plantCond":"great","lightType":"CFL","plantMsg":"Smaller than the rest","entryTime":"11:53:39:790","entryDate":"2016/1/29"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"Smallest but positive growth of 2 jagged leaves, still under cfl","entryTime":"10:53:34:898","entryDate":"2016/1/30"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"afternoon","plantMsg":"Smallest but good positive leaf enlargement. Moved from cfl to halide 30\". Will watch closely. Misted soil","entryTime":"7:9:28:481","entryDate":"2016/1/31"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.4","plantPPM":"4970","plantPH":"7","plantHeight":"1","plantCond":"good","lightType":"afternoon","plantMsg":"Tolerating halide at 36\". Aerated. Nutes added. 2 sets leaves","entryTime":"17:26:21:260","entryDate":"2016/2/1"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"2 sets leaves, coty leaves still green. Rotating 3x /d","entryTime":"11:59:13:127","entryDate":"2016/2/2"}]
+															}
+														]
+										}, {
+											"week": "3",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"2 tiers jagged leaves at 30\" from bulb","entryTime":"8:25:22:440","entryDate":"2016/2/4"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"2 tiers jagged leaves at 30\" from bulb","entryTime":"8:25:22:440","entryDate":"2016/2/4"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"5260","plantPH":"7","plantHeight":"1","plantCond":"good","lightType":"afternoon","plantMsg":"Good progress","entryTime":"12:35:4:851","entryDate":"2016/2/5"}]
+															}, {
+																"day": 4,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"8:58:51:318","entryDate":"2016/2/7"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"4550","plantPH":"7","plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"3 tiers leaves","entryTime":"9:44:30:403","entryDate":"2016/2/8"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"8:25:0:332","entryDate":"2016/2/9"}]
+															}
+														]
+										}, {
+											"week": "4",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"16:40:56:890","entryDate":"2016/2/10"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"New leaves emerging","entryTime":"13:20:35:433","entryDate":"2016/2/11"}]
+															}, {
+																"day": 3,
+																"data": [{"PlantName":"Auto GSC","PlantDesc":"(Fastbuds)","plantType":"Hybrid","plantWater":".4","plantPPM":"2460","plantPH":"7","plantHeight":"3","plantCond":"great","lightType":"afternoon","plantMsg":"Starting 4th tier of leaves\nShould be ready for fim in 2-3 days","entryTime":"11:46:38:761","entryDate":"2016/2/12"}]
+															}, {
+																"day": 4,
+																"data": [{"PlantName":"Auto GSC","PlantDesc":"(Fastbuds)","plantType":"Hybrid","plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"27\" from bulb on platform","entryTime":"8:0:53:721","entryDate":"2016/2/13"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"6:37:37:221","entryDate":"2016/2/14"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"2260","plantPH":"7","plantHeight":"4","plantCond":"good","lightType":"CFL","lightHt":"28","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:20:15:291","entryDate":"2016/2/15"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:14:2:371","entryDate":"2016/2/16"}]
+															}
+														]
+										}, {
+											"week": "5",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"7:38:40:900","entryDate":"2016/2/17"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:31:30:726","entryDate":"2016/2/18"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"4140","plantPH":"7.1","plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"12:16:32:635","entryDate":"2016/2/19"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Small but healthy growth","entryTime":"12:39:3:472","entryDate":"2016/2/20"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"8:24:24:61","entryDate":"2016/2/21"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.4","plantPPM":"3860","plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:2:47:698","entryDate":"2016/2/22"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"11:18:16:481","entryDate":"2016/2/23"}]
+															}
+														]
+										}, {
+											"week": "6",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:39:19:320","entryDate":"2016/2/24"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"20:27:10:35","entryDate":"2016/2/25"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"5","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"Looks healthy but not showing veg growth rate of others","entryTime":"11:26:50:249","entryDate":"2016/2/26"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"6.8","plantHeight":"6","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"No fim since its still small","entryTime":"11:51:23:272","entryDate":"2016/2/27"}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.3","plantPPM":0,"plantPH":0,"plantHeight":"8","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"2","times":"3","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":"5","times":"2","checked":true}],"plantMsg":"No drainage to measure","entryTime":"15:14:8:451","entryDate":"2016/2/29"}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "7",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "8",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "9",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "10",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "11",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "12",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "13",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "14",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}
+									]
+				}, {
+					"plantID": 5,
+					"plantName": "Orange Rooster",
+					"plantDesc": "",
+					"plantType": "",
+					"stage": "Vegetative",
+					"start": "01-15-2016",
+					"end": "_endDate_",
+					"img": "images/strains/acapulco-gold_100x100.jpg",
+					"plant_scehdule": [
+										{
+											"week": "0",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":0,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 7,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}
+														]
+										}, {
+											"week": "0B",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 4,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 6,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout soil turned",
+																	"entryTime":"9:31:43:584",
+																	"entryDate":"2016/1/18"}]
+															}, {
+																"day": 7,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":"4630",
+																	"plantPH":"7",
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"No sprout",
+																	"entryTime":"15:47:18:709",
+																	"entryDate":"2016/1/19"}]
+															}
+														]
+										}, {
+											"week": "1",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 2,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":1,"plantPPM":"5180","plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"No sprout","entryTime":"13:50:20:876","entryDate":"2016/1/22"}]
+															}, {
+																"day": 4,
+																"data": [{
+																	"plantWater":0,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"00:0:0:000",
+																	"entryDate":"2016/1/23"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":"0","plantPPM":0,"plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"No sprout yet","entryTime":"13:10:13:214","entryDate":"2016/1/24"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":".5","plantPPM":"4240","plantPH":"7","plantHeight":0,"plantCond":"good","timeOfDay":"morning","plantMsg":"No sprout yet. Rockwool in soil","entryTime":"16:2:36:703","entryDate":"2016/1/25"}]
+															}, {
+																"day": 7,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"00:0:0:000",
+																	"entryDate":"2016/1/26"}]
+															}
+														]
+										}, {
+											"week": "2",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{
+																	"plantWater":0,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"00:0:0:000",
+																	"entryDate":"2016/1/27"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":0,"plantCond":"good","lightType":"CFL","plantMsg":"No sprout yet. 4 scarified seeds in incubator, hope to choose 1-2 females","entryTime":"11:45:1:74","entryDate":"2016/1/28"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":".6","plantPPM":"3850","plantPH":"7","plantHeight":0,"plantCond":"good","lightType":"CFL","plantMsg":"No seedlngs yet","entryTime":"11:53:39:878","entryDate":"2016/1/29"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":0,"plantCond":"good","lightType":"CFL","plantMsg":"No sprout yet","entryTime":"10:53:35:31","entryDate":"2016/1/30"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":0,"plantCond":"good","lightType":"CFL","plantMsg":"No sprout yet. Misted. Optimal 77° humid conditions","entryTime":"7:9:28:577","entryDate":"2016/1/31"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"3400","plantPH":"7","plantHeight":0,"plantCond":"good","lightType":"CFL","plantMsg":"RO water. No sprout yet","entryTime":"10:17:29:603","entryDate":"2016/2/1"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":0,"plantCond":"good","lightType":"CFL","plantMsg":"No sprout yet","entryTime":"11:59:13:243","entryDate":"2016/2/2"}]
+															}
+														]
+										}, {
+											"week": "3",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":0,"plantCond":"poor","lightType":"afternoon","plantMsg":"No sprout yet","entryTime":"13:48:48:780","entryDate":"2016/2/3"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":0,"plantCond":"good","lightType":"CFL","plantMsg":"One sprout at top surface of rockwool","entryTime":"8:25:22:555","entryDate":"2016/2/4"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"4020","plantPH":"7","plantHeight":"1","plantCond":"good","lightType":"afternoon","plantMsg":"2 sprouts in incubator, not ready for transplant yet. Full strength compost tea applied","entryTime":"12:35:4:935","entryDate":"2016/2/5"}]
+															}, {
+																"day": 4,
+																"data": [{
+																	"plantWater":1,
+																	"plantPPM":0,
+																	"plantPH":0,
+																	"plantHeight":0,
+																	"plantCond":"good",
+																	"timeOfDay":"morning",
+																	"plantMsg":"",
+																	"entryTime":"10:5:8:856",
+																	"entryDate":"2016/1/14"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"2 more sprouts planted. Will watch closely as veg progresses for sexing","entryTime":"8:58:51:433","entryDate":"2016/2/7"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"4250","plantPH":"7","plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"BB only. All 3 sprouts doing well","entryTime":"9:44:30:496","entryDate":"2016/2/8"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"All 3 will survive now. Switch to halide soon, don't want stretch tho","entryTime":"8:25:0:439","entryDate":"2016/2/9"}]
+															}
+														]
+										}, {
+											"week": "4",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"Starting slow transition to halide. All 3 look good","entryTime":"16:40:57:5","entryDate":"2016/2/10"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"1","plantCond":"good","lightType":"CFL","plantMsg":"Slowly moving pot toward halide. Still under cfl","entryTime":"13:20:35:527","entryDate":"2016/2/11"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":.4,"plantPPM":"2940","plantPH":"7","plantHeight":"2","plantCond":"great","lightType":"afternoon","plantMsg":"Placed on halide light\nCenter of 3 doing the best","entryTime":"11:46:38:878","entryDate":"2016/2/12"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"2","plantCond":"good","lightType":"afternoon","plantMsg":"30\" from bulb. All 3 sprouts look good","entryTime":"8:0:53:839","entryDate":"2016/2/13"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"3","plantCond":"good","lightType":"afternoon","plantMsg":"","entryTime":"6:37:37:426","entryDate":"2016/2/14"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.5","plantPPM":"3480","plantPH":"7","plantHeight":"3","plantCond":"good","lightType":"CFL","lightHt":"31","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:20:15:370","entryDate":"2016/2/15"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":"0.5","plantPPM":"3480","plantPH":"7","plantHeight":"3","plantCond":"good","lightType":"CFL","lightHt":"31","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:20:15:370","entryDate":"2016/2/15"}]
+															}
+														]
+										}, {
+											"week": "5",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"7:38:41:3","entryDate":"2016/2/17"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"10:31:30:817","entryDate":"2016/2/18"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.4","plantPPM":"3570","plantPH":"7.3","plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"12:16:32:810","entryDate":"2016/2/19"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"4","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"All three looking good","entryTime":"12:39:3:564","entryDate":"2016/2/20"}]
+															}, {
+																"day": 5,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"6","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"3 sprouts progressing, unsure of sexing","entryTime":"8:24:24:174","entryDate":"2016/2/21"}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.","plantPPM":"3210","plantPH":0,"plantHeight":"6","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"9:2:47:764","entryDate":"2016/2/22"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"7","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"11:18:16:604","entryDate":"2016/2/23"}]
+															}
+														]
+										}, {
+											"week": "6",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"7","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"1","checked":true},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"FIM done on Middle plant tallest of the 3. No sexing yet","entryTime":"9:39:19:378","entryDate":"2016/2/24"}]
+															}, {
+																"day": 2,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":0,"plantHeight":"8","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":"1","times":"1","checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"20:27:10:99","entryDate":"2016/2/25"}]
+															}, {
+																"day": 3,
+																"data": [{"plantWater":"0.2","plantPPM":0,"plantPH":0,"plantHeight":"8","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"All 3 progressing well","entryTime":"11:26:50:336","entryDate":"2016/2/26"}]
+															}, {
+																"day": 4,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"6.8","plantHeight":"9","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"11:51:23:347","entryDate":"2016/2/27"}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{"plantWater":"0.3","plantPPM":"1160","plantPH":0,"plantHeight":"11","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"3 plants progressing well, no sex characteristics yet","entryTime":"15:14:8:514","entryDate":"2016/2/29"}]
+															}, {
+																"day": 7,
+																"data": [{"plantWater":0,"plantPPM":0,"plantPH":"6.9","plantHeight":"12","plantCond":"good","lightType":"afternoon","pruning":[{"name":"FIM","tier":0,"times":0,"checked":false},{"name":"Top","tier":0,"times":0,"checked":false},{"name":"sCrop","tier":0,"times":0,"checked":false},{"name":"LST","tier":0,"times":0,"checked":false},{"name":"Fan","tier":0,"times":0,"checked":false}],"plantMsg":"","entryTime":"8:54:8:123","entryDate":"2016/3/1"}]
+															}
+														]
+										}, {
+											"week": "7",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "8",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "9",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "10",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "11",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "12",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "13",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "14",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}
+									]
+				}, {
+					"plantID": 6,
+					"plantName": "_name_",
+					"plantDesc": "_company_",
+					"plantType": "_type_",
+					"stage": "_stage_",
+					"start": "_startDate_",
+					"end": "_endDate_",
+					"img": "_imageURL_",
+					"plant_scehdule": [
+										{
+											"week": "0",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "0B",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "1",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "2",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "3",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "4",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "5",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "6",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "7",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "8",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "9",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "10",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "11",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "12",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "13",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "14",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}
+									]
+				}, {
+					"plantID": 7,
+					"plantName": "_name_",
+					"plantDesc": "_company_",
+					"plantType": "_type_",
+					"stage": "_stage_",
+					"start": "_startDate_",
+					"end": "_endDate_",
+					"img": "_imageURL_",
+					"plant_scehdule": [
+										{
+											"week": "0",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "0B",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "1",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "2",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "3",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "4",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "5",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "6",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "7",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "8",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "9",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "10",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "11",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "12",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "13",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}, {
+											"week": "14",
+											"entries": [
+															{
+																"day": 1,
+																"data": [{}]
+															}, {
+																"day": 2,
+																"data": [{}]
+															}, {
+																"day": 3,
+																"data": [{}]
+															}, {
+																"day": 4,
+																"data": [{}]
+															}, {
+																"day": 5,
+																"data": [{}]
+															}, {
+																"day": 6,
+																"data": [{}]
+															}, {
+																"day": 7,
+																"data": [{}]
+															}
+														]
+										}
+									]
+				}
+			]
+}]

@@ -1,0 +1,108 @@
+/** daily plant log data structure **/
+ var plantLog = [
+ {
+ 	"environment" : [
+ 		{
+ 			"roomTemp":70,
+ 			"roomHumidity":45,
+ 			"roomLight":80,
+ 			"totalWater":5,
+ 			"totalPPM":0,
+ 			"totalPH":0,
+ 			"timeOfDay":"evening",
+ 			"roomMsg":"nothing is going on around here.",
+ 			"entryTime":"11:55:45:130",
+ 			"entryDate":"2016/1/15"
+ 		}
+ 	], 
+			"plant1" : [ 
+			{
+				"PlantName":"Jack",
+				"PlantDesc":"NA",
+				"plantType":"annual",
+				"plantWater":1,
+				"plantPPM":0,
+				"plantPH":0,
+				"plantHeight":0,
+				"plantCond":"good",
+				"timeOfDay":"morning",
+				"plantMsg":"",
+				"entryTime":"10:5:8:856",
+				"entryDate":"2016/1/14"
+			}],
+			"plant2" :[ 
+ 			{
+				"PlantName":"Jack",
+				"PlantDesc":"NA",
+				"plantType":"annual",
+				"plantWater":1,
+				"plantPPM":0,
+				"plantPH":0,
+				"plantHeight":0,
+				"plantCond":"good",
+				"timeOfDay":"morning",
+				"plantMsg":"",
+				"entryTime":"10:5:8:856",
+				"entryDate":"2016/1/14"
+		}],
+		"plant3" :[ 
+			{
+				"PlantName":"Jack",
+				"PlantDesc":"NA",
+				"plantType":"annual",
+				"plantWater":1,
+				"plantPPM":0,
+				"plantPH":0,
+				"plantHeight":0,
+				"plantCond":"good",
+				"timeOfDay":"morning",
+				"plantMsg":"",
+				"entryTime":"10:5:8:856",
+				"entryDate":"2016/1/14"
+		}],
+		"plant4" :[ 
+			{
+				"PlantName":"Jack",
+				"PlantDesc":"NA",
+				"plantType":"annual",
+				"plantWater":1,
+				"plantPPM":0,
+				"plantPH":0,
+				"plantHeight":0,
+				"plantCond":"good",
+				"timeOfDay":"morning",
+				"plantMsg":"",
+				"entryTime":"10:5:8:856",
+				"entryDate":"2016/1/14"
+		}],
+		"plant5" :[ 
+			{
+				"PlantName":"Jack",
+				"PlantDesc":"NA",
+				"plantType":"annual",
+				"plantWater":1,
+				"plantPPM":0,
+				"plantPH":0,
+				"plantHeight":0,
+				"plantCond":"good",
+				"timeOfDay":"morning",
+				"plantMsg":"",
+				"entryTime":"10:5:8:856",
+				"entryDate":"2016/1/14"
+		}],
+		"plant6" :[ 
+			{
+				"PlantName":"Empty",
+				"PlantDesc":"NA",
+				"plantType":"annual",
+				"plantWater":1,
+				"plantPPM":0,
+				"plantPH":0,
+				"plantHeight":0,
+				"plantCond":"good",
+				"timeOfDay":"morning",
+				"plantMsg":"",
+				"entryTime":"10:5:8:856",
+				"entryDate":"2016/1/14"
+		}]
+	}];

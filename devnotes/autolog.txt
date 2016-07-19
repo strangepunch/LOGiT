@@ -1,0 +1,39 @@
+autolog:
+a new log is created each day (or selectable time period) creating a data trail that cen be presented in storyline, image based or text based forms. 
+
+Usefulness:
+growOp - plantHistory can be created from basic entries, cure stage can be 
+Tempz
+logIT
+Type 2
+
+PseudoCode:
+/** standard log object template stored **/
+-onfirst load()
+	createFirst(logObject) - same as having clicked on the +new plant in growOp
+	saveLogObject(firstLog) - same as "Save" event in new object screen in growOp
+
+/** copy is loaded on app open/new log event **/
+-onfirst display()
+	if firstLog /= {}
+	setDisplayType("defaultType")
+	loadDisplay("firstLog")
+
+/** realtime parameters added/updated **/
+-userUpdate("logN")
+	if newData = 1
+	mergeNewDataIntoLogObject("logN")
+
+/** updated log object stored in local storage
+-saveLogObject(firstLog, logN)
+	Logs = [firstLog, logN]
+	updateSavedLogsFlag()
+
+/** access to locally stored logs available at all times
+-ShowLogs()
+	if showLogsControlActivated = 1
+	countLogs()
+	create logHeadings()
+
+
+

@@ -1,0 +1,38 @@
+<div class="plantView">
+	<div class="panel-body">
+		<!-- full list of log objects below-->
+		<div class="row">
+			<div class="col-lg-4" ng-repeat="plant in vm.currentLogList | orderBy : '-time'">
+				<div class="panel panel-info">
+				  	<div class="panel-heading">
+					    <div class="row panel-title">
+					    	<div class="col-xs-6" ui-sref="plantDet({plantName:'{{plant.name}}'})">
+					    		{{plant.name}}
+					    		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+					    	</div>
+					    	<div class="col-xs-6" ng-click="vm.deletePlantBTN(plant.plant)"><span class="glyphicon glyphicon-minus" style="float:right" aria-hidden="true"></span></div>
+					    </div>
+				  	</div>
+				 	<div class="panel-body">
+					  	<div class="row">
+					  		<div class="col-xs-4">
+					  			<div class = "col-xs-12">
+						  			{{plant.start.month}}/{{plant.start.day}}/{{plant.start.year}}
+						  		</div> 
+						  		<div class="col-xs-12">
+						  			{{plant.time.hr}}:{{plant.time.min}}:{{plant.time.sec}}:{{plant.time.mSec}}
+						  		</div>
+						  	</div> 
+						  	<div class="col-xs-4">
+						  		{{plant.desc}}
+						  	</div>
+						  	<div class="col-xs-4">
+						  		I felt: {{plant.stage}}
+						  	</div>
+					  	</div>
+				  	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,103 @@
+<div class="plantView">
+
+	<h3 class="title" style="padding-top:20px"> New LOG </h3>
+		<!-- main entry area -->	
+		<div class="panel-heading" style="text-align:right;">
+			
+		</div>
+		<div class="panel-body">
+			<div class="panel-group" style="padding-bottom:40px">
+			   	<form class="form-horizontal" name="addPlantForm">
+				  	<fieldset>
+				    	<div class="form-group col-sm-6 col-lg-4">
+					      	<label for="select1" class="col-lg-6 control-label">Today when I...</label>
+					      	<div class="col-lg-6">
+						        <select class="form-control" id="select1" ng-model="vm.inputData.logMethod">
+						        	<option value="">{{vm.placeholders.logMethod}}</option>
+						          	<option value="Vaporized">Vaporized</option>
+						          	<option value="Juiced">Juiced</option>
+						          	<option value="Ate">Ate</option>
+						          	<option value="Drank Tincture">Drank Tincture</option>
+						          	<option value="Dabbed">Dabbed</option>
+						          	<option value="Smoked">Smoked</option>
+						          	<option value="Smoked">Applied</option>
+						        </select>
+					      	</div>
+					    </div>
+
+ 				    	<div class="form-group col-sm-6 col-lg-4">
+					      	<label for="select2" class="col-lg-6 control-label">Some cannabis called...</label>
+					      	<div class="col-lg-6">
+						        <select class="form-control" id="select2" ng-model="vm.inputData.logStrain">
+						        	<option value="">{{vm.placeholders.logStrain}}</option>
+						          	<option value="Jack Herer">jack herer</option>
+						          	<option value="Acapulco Gold">acapulco gold</option>
+						          	<option value="Headband">headband</option>
+						          	<option value="critical sensi star">critical sensi star</option>
+						          	<option value="Girl Scout Cookies">girl scout cookies</option>
+						          	<option value="Auto Diesel Matic">auto diesel matic</option>
+						          	<option value="Grand Daddy Purp">grand daddy purp</option>
+						          	<option value="Green Crack">green crack</option>
+						          	<option value="Kush">kush</option>
+						          	<option value="Orange Rooster">orange rooster</option>
+						          	<option value="Frank">frank</option>
+						        </select>
+					      	</div>
+					    </div>
+
+				    	<div class="form-group col-sm-6 col-lg-4">
+					      	<label for="select3" class="col-lg-6 control-label">I felt...</label>
+					      	<div class="col-lg-6">
+						        <select class="form-control" id="select3" ng-model="vm.inputData.logEffect">
+						        	<option value="">{{vm.placeholders.logEffect}}</option>
+						          	<option value="Peaceful">Peaceful</option>
+						          	<option value="Energetic">Energetic</option>
+						          	<option value="Creative">Creative</option>
+						          	<option value="Less Hungry">Less Hungry</option>
+						          	<option value="Sexual">Sexual</option>
+						          	<option value="less hungry">Giggly</option>
+						          	<option value="Focused">Focused</option>
+						          	<option value="Pain Relief">Pain Relief</option>
+						          	<option value="Happy">Happy</option>
+						          	<option value="Uplifted">Uplifted</option>
+						          	<option value="Euphoric">Euphoric</option>
+						          	<option value="Long Lasting">Long Lasting</option>
+						          	<option value="Potent">Potent</option>
+						          	<option value="Balanced">Balanced</option>
+						          	<option value="Calmness">Calmness</option>
+						          	<option value="Potent">Potent</option>
+						          	<option value="Productive">Productive</option>
+						          	<option value="Psychoactive">Psychoactive</option>
+						          	<option value="Mellow">Mellow</option>
+						          	<option value="Intense">Intense</option>
+						          	<option value="Mind + Body">Mind + Body</option>
+						          	<option value="Conversational">Conversational</option>
+						          	<option value="Therapeutic">Therapeutic</option>
+						          	<option value="Tingly">Tingly</option>
+						          	<option value="Hungry">Hungry</option>
+						          	<option value="Dry Mouth">Dry Mouth</option>
+						          	<option value="Dry Eyes">Dry Eyes</option>
+						          	<option value="Paranoid">Paranoid</option>
+						          	<option value="Dizzy">Dizzy</option>
+						          	<option value="Anxious">Anxious</option>
+						          	<option value="Munchies">Munchies</option>
+						          	<option value="Headache">Headache</option>
+						          	<option value="Drowsiness">Drowsiness</option>
+						          	<option value="Couch Lock">Couch Lock</option>
+						          	<option value="Clear Headed">Clear Headed</option>
+						          	<option value="Less Social">Less Social</option>
+						        </select>
+					      	</div>
+					    </div>
+					    
+				    	<div class="col-xs-12" style="text-align:center">
+							<button class="btn {{vm.addButtonStyle}}" ng-click="vm.addPlantBTN()">Add</button>
+							<button class="btn btn-default" ng-click="vm.clearFieldsBTN()">Clear</button>
+							<br/><span>{{vm.errorMessage}}<span>
+						</div>
+					</fieldset>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>

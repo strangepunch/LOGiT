@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<html>
+    <head lang="en">
+        <META character="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <title>LOGiT 0.01</title>
+        <meta http-equiv="x-ua-compatible" content="IE=edge" />
+        <meta name="apple-touch-fullscreen" content="yes">
+        <link rel="shortcut icon" href="favicon.ico"/>
+        <link rel="apple-touch-icon" href="apple-touch-icon.png" >
+        <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png" >
+        <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png" >
+        <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png" >
+        <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" >
+        <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png" >
+        <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png" >
+        <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png" >
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png" >
+        
+        <!-- Style Sheets-->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/toastr.min.css" rel="stylesheet">
+        <link href="css/app.css" rel="stylesheet">
+        <link href="css/betterbutton.css" rel="stylesheet">
+        <link href="css/circular_prog_bar.css" rel="stylesheet">
+
+        <!-- Libraries Scripts -->
+        <!-- Use min versions where possible -->
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <script src="js/angular.min.js"></script>
+        <script src="js/angular-resource.min.js"></script>
+        <script src="js/angular-mocks.js"></script>
+        <script src="js/angular-ui-router.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/ui-utils.min.js"></script>
+        <script src="js/ui-bootstrap-tpls-0.12.0.min.js"></script>
+        <script src="js/toastr.min.js"></script>
+        <script src="js/angular-local-storage.min.js"></script>
+
+        <!-- Nav and Application Scripts-->
+        <script src="app/app.js"></script>
+
+        <!--Common Services -->
+        <script src="common/services/common.services.js"></script>
+        <script src="common/services/productResource.js"></script>
+        <script src="common/services/productResourceMock.js"></script>
+        <script src="common/services/tempResource.js"></script>
+        <script src="common/services/productService.js"></script>
+        <script src="common/services/modeResource.js"></script>
+        <script src="common/services/detailModeResource.js"></script>
+        <script src="common/services/tasteResource.js"></script>
+        <script src="common/services/recEffectResource.js"></script>
+        <script src="common/services/strainNamesResource.js"></script>
+        <script src="common/services/effectResource.js"></script>
+        <script src="common/services/conditionResource.js"></script>
+        <script src="common/services/strainResource.js"></script>
+        <script src="common/services/vapeTempResource.js"></script>
+        <script src="common/services/vTipResource.js"></script>
+        <script src="common/services/masterPlantLogResource.js"></script>
+
+        <!-- Controllers -->
+        <script src="app/log/logViewCtrl.js"></script>
+
+        <!-- Templates Controllers -->
+       
+        <!-- growOp Directives -->
+        <script src="app/common/directives/onlyDigits.js"></script>
+        <script src="app/common/directives/betterButton.js"></script>
+        <script src="app/common/directives/countDownTimer.js"></script>
+        <script src="app/common/directives/circularProgBar.js"></script>
+       
+        <!--growOp Services -->
+        <script src="app/common/services/plantDetSvc.js"></script>
+        <script src="app/common/services/plantGetDataSvc.js"></script>
+
+    </head>
+
+    <body  ng-app = "growOpApp">
+
+        <!-- top selection area -->
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-xs-4" style="text-align:center;" ui-sref="log">
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>  Log
+                    </div>
+                    <div class="col-xs-4" style="text-align:center;" ui-sref="plant">
+                        <span ></span>  Effects
+                    </div>
+                    <div class="col-xs-4" style="text-align:center;" ui-sref="plant">
+                        <span ></span>Taste
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- view -->
+        <div data-ui-view></div> 
+
+    </body>
+    
+</html>

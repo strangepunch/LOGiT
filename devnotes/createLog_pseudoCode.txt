@@ -1,0 +1,21 @@
+//createLog pseudo code for Cure
+
+if currentMode = "cure" then {
+	checkForNewLogData () {
+		didUserEnterNewData (
+			if yes then 
+				saveData in plantLog
+			else
+			set NewData = "No"
+		)
+	}
+	if newData = No (
+		createLog ()
+		saveLog ()
+	)
+else if currentMode = "another stage"{
+	createLogForThisStage ("anotherStage")
+	}
+}
+
+ 

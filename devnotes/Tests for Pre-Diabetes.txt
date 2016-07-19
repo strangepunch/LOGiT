@@ -1,0 +1,43 @@
+Tests for Pre-Diabetes
+
+
+Tests that should be given at least once a year
+1. Fasting blood sugar
+2. AIC
+3. Total cholesterol
+4. HDL cholesterol
+5. Low-density lipoprotein (LDL) cholesterol
+6. Triglycerides
+
+Each Test Described 
+1. A1C (Glycated hemoglobin test) 
+- This blood test indicates your average blood sugar level for the past two to three months
+
+How it works:
+- It works by measuring the percentage of blood sugar attached to hemoglobin, the oxygen-carrying protein in red blood cells. The higher your blood sugar levels, the more hemoglobin you'll have with sugar attached.
+
+How to Interpret the results:
+
+Normal: < 5.7 %
+PreDiabetes: 5.7 - 6.4 %
+Type 2 Diabetes: > 6.5 % 
+
+2. Fasting blood sugar test
+
+How to Interpret the results:
+
+Normal: < 100 mg/dL
+PreDiabetes: 100 -125 mg/dL
+Type 2 Diabetes: > 126 mg/dL
+
+3. Oral glucose tolerance
+-rarely used to diagnose diabetes except during pregnancy
+
+How to Interpret the results:
+
+Normal: < 140 mg/dL
+PreDiabetes: 140 -199 mg/dL
+Type 2 Diabetes: > 200 mg/dL
+
+
+

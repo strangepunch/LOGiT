@@ -1,0 +1,8 @@
+Server functions
+Node 
+1. recieve requests from the UI to process and respond
+2. save data to mongolab
+3. get data from mongolab
+4. delete data at mongolab
+5. convert data from mongolab to json if needed
+6. 

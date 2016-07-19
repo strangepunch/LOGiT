@@ -1,0 +1,18 @@
+General flow of a New Log Entry
+
+1. tap on + button opens addNewLog view (default when app opens)
+2. tap on "Today when I" butn opens ingestion method selection subscreen 
+3. once an ingestion method is selected that value is passed and updated in the controller and the user is returned to the addNewLog screen
+4. addNewLog screen now displays the image and text reflecting the most recent selection
+5. the green NEXT arrow is now highlighted and waiting for the user to activate
+6. Once tapped the green NEXT arrow calls the SelectAStrainView
+7. Once the user taps the "some cannabis called..." butn this opens the strain selectionView which displays the list of favorites first (if there is one)
+and if not the search for a strain view used in Rec mode 
+* rec mode adapted to display the images larger
+8. a tap on any image or name selects this as the strain in focus and the user is returned to the selectAStrain view with that strain displayed
+the green next arrow is now highlighted and waiting to be acivated by user
+9. once the green arrow is activated the user is shown the effectScreen
+10. A tap on the "I felt.." butn opens the chooseAnEffect screen
+11. a tap on any effect returns the user to the effectScreen with that effect displayed and the LogIT butn green
+12. A tap on LogIt butn saves the newly created log object and displays a success confirmation (animated if possible)
+13. the app then returns to the default new log screen

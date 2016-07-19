@@ -1,0 +1,18 @@
+setting up dev system for python and node connections:
+
+1. Install Python mongo driver: Pymongo
+**************
+C:\>python -m pip install pymongo
+Collecting pymongo
+  Downloading pymongo-3.2.2-cp27-none-win_amd64.whl (240kB)
+    100% |################################| 241kB 298kB/s
+Installing collected packages: pymongo
+Successfully installed pymongo-3.2.2
+
+**************
+2. Install Node mongo driver
+C:\>npm install mongodb
+mongodb@2.1.7 node_modules\mongodb
+├── es6-promise@3.0.2
+├── readable-stream@1.0.31 (string_decoder@0.10.31, isarray@0.0.1, inherits@2.0.1, core-util-is@1.0.2)
+└── mongodb-core@1.3.1 (bson@0.4.22, require_optional@1.0.0)

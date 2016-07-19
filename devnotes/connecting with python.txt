@@ -1,0 +1,5 @@
+import pymongo
+
+from pymongo import MongoClient
+connection = MongoClient()
+db = connection.mydatabase

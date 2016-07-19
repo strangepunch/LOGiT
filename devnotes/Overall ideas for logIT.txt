@@ -1,0 +1,38 @@
+Overall ideas for logIT
+
+1. main object is either the plant or the log
+
+2. if we make the plant the main object, each plant has a profile in local storage which represents the evolution of that plant from when it was planted till the current day and time
+
+
+3. if we make the log the main object, the log has information associated with each day for each plant 
+	.a growLog contains a history about the plant(s) you are growing
+		think of the plantHistory is a series of snapshots representing the currentStatus of each room and plant based on the data available
+	
+		snapShots can be viewed in various ways to support several userPerspectives
+		- quickOverviewFromStart ("startDate", "todaysDate")
+		- overviewByStage ("currentStage")
+		- weeklyOverview ("currentWeek")
+		- today ("todaysDate")    
+
+	.each userPerspective supports a need a user would have when reviewing their logs
+		- hows my garden doing as of today?
+		- what has happened this week?
+		- how is a specific plant doing?
+		- if a problem is happening what has been done about it
+		- what stage are my plants in
+			- when was the last time they were fed and watered
+			- when is the next time they need to be fed and watered
+		- how do they look
+		- in the currentStage, how are they in comparison to each other
+		- how should myFavoriteStrains make me feel
+		- once they are inUse, how did it actually make me feel
+		- once they are inUse, how does that compare to the published expectations
+		- how did this strain make others feel (?) 
+		- when I want the same effects again I want to easily find which strain to pick 
+
+4. 
+ 
+
+// when user taps on anything set newData = "yes"
+ 

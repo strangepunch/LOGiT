@@ -1,0 +1,1695 @@
+[{
+	"grow": 1,
+	"rooms": [{
+		"roomID": 1,
+		"enviroment": [{
+			"env_desc": "single 10x12 room with 1 CFL and 1 Ha/Na light",
+			"env_type": "one room grow",
+			"env_scehdule": [{
+				"week": "0",
+				"entries": [{
+					"day": 1,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 2,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 3,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 4,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 5,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 6,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 7,
+					"data": [{
+			 			"roomTemp":70,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}]
+			}, {
+				"week": "0B",
+				"entries": [{
+					"day": 1,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 2,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 3,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 4,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 5,
+					"data": [{
+			 			"roomTemp":70,
+			 			"roomHumidity":45,
+			 			"roomLight":80,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+				}, {
+					"day": 6,
+					"data": [{
+			 			"roomTemp":77,
+			 			"roomHumidity":32,
+			 			"roomLight":24,
+			 			"totalWater":5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"morning",
+			 			"roomMsg":"first day using the app, soil turned",
+			 			"entryTime":"9:31:43:252",
+			 			"entryDate":"2016/1/18"
+			 		}]
+				},{
+					"day": 7,
+					"data": [{"roomTemp":"79","roomHumidity":"67","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"0","timeOfDay":null,"roomMsg":"no nutrients or water added \ncfl light lowered to within 1 in of seedlings","entryTime":"11:22:20:846","entryDate":"2016/1/26"}]
+				} , {
+
+					"week": "1",
+					"entries": [{
+						"day": 1,
+						"data": [{"roomTemp":"79","roomHumidity":"70","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"7","timeOfDay":null,"roomMsg":"All 4 seedlings look good post transplantation","entryTime":"10:40:50:49","entryDate":"2016/1/27"}]
+					}, {
+						"day": 2,
+						"data": [{"roomTemp":"79","roomHumidity":"70","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"7","timeOfDay":null,"roomMsg":"All 4 seedlings look good post transplantation","entryTime":"10:40:50:49","entryDate":"2016/1/27"}]
+					}, {
+						"day": 3,
+						"data": [{"roomTemp":"79","roomHumidity":"63","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"4 seedlings looking healthy","entryTime":"11:53:39:235","entryDate":"2016/1/29"}]
+					}, {
+						"day": 4,
+						"data": [{"roomTemp":"77","roomHumidity":"66","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"Cleanup done vacuum. Start transition to Halide for DM & JH. Nonsprouts discarded from pot 5. Most seeds never split. Interior very moist. No rooster sprouts yet. Conditions optimal.","entryTime":"10:53:34:376","entryDate":"2016/1/30"}]
+					}, {
+						"day": 5,
+						"data": [{"roomTemp":"77","roomHumidity":"39","roomLight":"100","totalWater":null,"totalPPM":"0","totalPH":"0","timeOfDay":null,"roomMsg":"DM & JH have sprouted from rockwool.","entryTime":"13:10:12:271","entryDate":"2016/1/24"}]
+					}, {
+						"day": 6,
+						"data": [{"roomTemp":"77","roomHumidity":"55","roomLight":"100","totalWater":null,"totalPPM":"7","totalPH":"7","timeOfDay":null,"roomMsg":"Fungal problem in incubator. GSC just sprouted & top of rockwool has colonies of fungus. Transplanted GSC, DM, JH into pots, after GSC seedling was carefully replaced into a new rockwool. Other seeds & pods were placed in a line of soil in the 5th pot. BB 3tsp/g: 370ml applied to CSS. Incubator removed & disinfected. Seedlings left uncovered.","entryTime":"16:2:36:365","entryDate":"2016/1/25"}]
+					}, {
+						"day": 7,
+						"data": [{"roomTemp":"79","roomHumidity":"67","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"0","timeOfDay":null,"roomMsg":"no nutrients or water added \ncfl light lowered to within 1 in of seedlings","entryTime":"11:22:20:846","entryDate":"2016/1/26"}]
+					}]
+			}, 
+			{
+				"week": "2",
+				"entries": [{
+						"day": 1,
+						"data": [{"roomTemp":"79","roomHumidity":"70","roomLight":"24","totalWater":null,"totalPPM":"0","totalPH":"7","timeOfDay":null,"roomMsg":"All 4 seedlings look good post transplantation","entryTime":"10:40:50:49","entryDate":"2016/1/27"}]
+					}, {
+						"day": 2,
+						"data": [{"roomTemp":"75","roomHumidity":"61","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"3 new sprouts are doing well with jagged fan leaf development & no visible stress. Misting twice daily. Tea brew started today. Trying to sprout 4 rooster seeds in hopes of filling pot 5 with a female","entryTime":"11:38:29:377","entryDate":"2016/1/28"}]
+					}, {
+						"day": 3,
+						"data": [{"roomTemp":"79","roomHumidity":"63","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"4 seedlings looking healthy","entryTime":"11:53:39:235","entryDate":"2016/1/29"}]
+					}, {
+						"day": 4,
+						"data": [{"roomTemp":"77","roomHumidity":"66","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"Cleanup done vacuum. Start transition to Halide for DM & JH. Nonsprouts discarded from pot 5. Most seeds never split. Interior very moist. No rooster sprouts yet. Conditions optimal.","entryTime":"10:53:34:376","entryDate":"2016/1/30"}]
+					}, {
+						"day": 5,
+						"data": [{"roomTemp":"77","roomHumidity":"63","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"All 4 sprouts are only under halide light now.","entryTime":"7:9:27:869","entryDate":"2016/1/31"}]
+					}, {
+						"day": 6,
+						"data": [{"roomTemp":"76","roomHumidity":"67","roomLight":"24","totalWater":null,"timeOfDay":null,"roomMsg":"Halide kept 24\" from CSS. Others 30\". Watered with 1.5 g w/ 1 tsp/gal big bloom. 1/2 gal RO water applied to rooster pot. Aeration done. 3 more scarified seeds placed in rockwool","entryTime":"10:17:27:83","entryDate":"2016/2/1"}]
+					}, {
+						"day": 7,
+						"data": [{"roomTemp":"72","roomHumidity":"62","roomLight":"24","totalWater":null,"roomMsg":"Good positive growth overall. Warmed to 77°","entryTime":"11:59:12:589","entryDate":"2016/2/2"}]
+					}]
+				}, {
+				"week": "3",
+				"entries": [{
+						"day": 1,
+						"data": [{"roomTemp":"75","roomHumidity":"72","roomLight":"24","totalWater":null,"roomMsg":"Good positive growth, arranged for now equal light exposure","entryTime":"13:48:48:158","entryDate":"2016/2/3"}]
+					}, {
+						"day": 2,
+						"data": [{"roomTemp":"77","roomHumidity":"61","roomLight":"24","totalWater":null,"roomMsg":"Conditions seem consistently optimal for vegetative growing","entryTime":"8:25:21:919","entryDate":"2016/2/4"}]
+					}, {
+						"day": 3,
+						"data": [{"roomTemp":"77","roomHumidity":"64","roomLight":"24","totalWater":null,"roomMsg":"1:5 tea diluted with RO on 1-4. Pot 5 full strength tea. CSS ready to FIM. 2 sprouts visible","entryTime":"12:35:4:262","entryDate":"2016/2/5"}]
+					}, {
+						"day": 4,
+						"data": [{
+			 			"roomTemp":74,
+			 			"roomHumidity":45,
+			 			"roomLight":24,
+			 			"totalWater":2.5,
+			 			"totalPPM":0,
+			 			"totalPH":0,
+			 			"timeOfDay":"evening",
+			 			"roomMsg":"nothing is going on around here.",
+			 			"entryTime":"11:55:45:130",
+			 			"entryDate":"2016/1/15"
+			 		}]
+					}, {
+						"day": 5,
+						"data": [{"roomTemp":"72","roomHumidity":"61","roomLight":"24","totalWater":null,"roomMsg":"3 seedlings now in pot 5","entryTime":"8:58:50:781","entryDate":"2016/2/7"}]
+					}, {
+						"day": 6,
+						"data": [{"roomTemp":"75","roomHumidity":"59","roomLight":"24","totalWater":null,"roomMsg":"Aerated all pots. BB 1 tsp/gal pot 5, BB 3tsp/g + GB 1tsp/g all others. Applied fish protein to all plants, 3/4 teaspoon for 1 quart water.","entryTime":"9:44:29:723","entryDate":"2016/2/8"}]
+					}, {
+						"day": 7,
+						"data": [{"roomTemp":"73","roomHumidity":"63","roomLight":"24","totalWater":null,"roomMsg":"Looks good. Raised halide 4\" wilted leaves JH&CSS","entryTime":"8:24:59:569","entryDate":"2016/2/9"}]
+					}]
+				}, {
+				"week": "4",
+				"entries": [{
+						"day": 1,
+						"data": [{"roomTemp":"73","roomHumidity":"63","roomLight":"24","totalWater":null,"roomMsg":"","entryTime":"16:40:56:351","entryDate":"2016/2/10"}]
+					}, {
+						"day": 2,
+						"data": [{"roomTemp":"72","roomHumidity":"58","roomLight":"24","totalWater":null,"roomMsg":"Aeration done, tea started","entryTime":"13:20:34:871","entryDate":"2016/2/11"}]
+					}, {
+						"day": 3,
+						"data": [{"roomTemp":"73","roomHumidity":"52","roomLight":"24","totalWater":null,"roomMsg":"Compost tea applied 1:5 for all\nAll.look good\nPoured fish protiein on JH, CSS, GSC","entryTime":"11:46:38:242","entryDate":"2016/2/12"}]
+					}, {
+						"day": 4,
+						"data": [{"roomTemp":"72","roomHumidity":"68","roomLight":"24","totalWater":null,"roomMsg":"Elevated all pots except 2 on 5\"platform due to height descrepancy.","entryTime":"8:0:53:15","entryDate":"2016/2/13"}]
+					}, {
+						"day": 5,
+						"data": [{"roomTemp":"70","roomHumidity":"61","roomLight":"24","totalWater":null,"roomMsg":"1,3,4,5 on 5\" platform to equalize light exposure with 2. Misting undersides of fans 2-3x/d. Rotating platform pots 2x/d","entryTime":"6:37:36:552","entryDate":"2016/2/14"}]
+					}, {
+						"day": 6,
+						"data": [{"roomTemp":"70","roomHumidity":"54","roomLightHr":"24","roomLightHt":"23","totalWater":null,"nutrients":[{"name":"Grow B.","amt":"1","checked":true},{"name":"Big Bl.","amt":"3","checked":true},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Height discrepancy btwn 2 & others is significant. Platform raised from 5 to 9\" for 1,3,4,5","entryTime":"10:20:14:815","entryDate":"2016/2/15"}]
+					}, {
+						"day": 7,
+						"data": [{"roomTemp":"72","roomHumidity":"64","roomLightHr":"24","roomLightHt":"24","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":"1","checked":true}],"roomMsg":"Protein foliar spray 2x/d","entryTime":"9:14:1:554","entryDate":"2016/2/16"}]
+					}]
+			}, {
+				"week": "5",
+				"entries": [{
+						"day": 1,
+						"data": [{"roomTemp":"72","roomHumidity":"58","roomLightHr":"24","roomLightHt":"24","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":"1","checked":true}],"roomMsg":"Raised light. Was 21\", now 24.","entryTime":"7:38:40:308","entryDate":"2016/2/17"}]
+					}, {
+						"day": 2,
+						"data": [{"roomTemp":"72","roomHumidity":"63","roomLightHr":"24","roomLightHt":"22","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"1:5 tea. 2 g total","entryTime":"12:16:31:871","entryDate":"2016/2/19"}]
+					}, {
+						"day": 3,
+						"data": [{"roomTemp":"72","roomHumidity":"63","roomLightHr":"24","roomLightHt":"22","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"1:5 tea. 2 g total","entryTime":"12:16:31:871","entryDate":"2016/2/19"}]
+					}, {
+						"day": 4,
+						"data": [{"roomTemp":"76","roomHumidity":"73","roomLightHr":"24","roomLightHt":"22","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"All plants look great\nA little insect damage on CSS but nothing serious","entryTime":"12:39:3:84","entryDate":"2016/2/20"}]
+					}, {
+						"day": 5,
+						"data": [{"roomTemp":"78","roomHumidity":"50","roomLightHr":"24","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Tolerating lower bulb well. Tips of all 5 are on same plane after LST of CSS. Mist with tea 1:5","entryTime":"8:24:23:92","entryDate":"2016/2/21"}]
+					}, {
+						"day": 6,
+						"data": [{"roomTemp":"77","roomHumidity":"52","roomLightHr":"24","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":"1","checked":true},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"First Sea90 flush","entryTime":"8:54:56:666","entryDate":"2016/2/22"}]
+					}, {
+						"day": 7,
+						"data": [{"roomTemp":"71","roomHumidity":"66","roomLightHr":"22","roomLightHt":"18","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Raising light, transition to 18-6 lite schedule. Canopy is reasonably level with LST","entryTime":"11:18:15:671","entryDate":"2016/2/23"}]
+					}]
+			}, {
+				"week": "6",
+				"entries": [{
+						"day": 1,
+						"data": [{"roomTemp":"77","roomHumidity":"69","roomLightHr":"20","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":"3","checked":true},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"roomMsg":"Boost of GB with min amt water, mainly for stimulate GSC","entryTime":"9:39:18:737","entryDate":"2016/2/24"}]
+					}, {
+						"day": 2,
+						"data": [{"roomTemp":"77","roomHumidity":"43","roomLightHr":"18","roomLightHt":"17","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"soil":[{"name":"Aerate","amt":0,"checked":true}],"roomMsg":"2 more reflective panels hung, for coverage on 3 sides. Tea brewing","entryTime":"20:25:12:834","entryDate":"2016/2/25"}]
+					}, {
+						"day": 3,
+						"data": [{"roomTemp":"77","roomHumidity":"50","roomLightHr":"18","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":"3","checked":true},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"soil":[{"name":"Aerate","amt":0,"checked":false}],"roomMsg":"Full veg stage, trying nutes twice a week","entryTime":"11:26:49:671","entryDate":"2016/2/26"}]
+					}, {
+						"day": 4,
+						"data": [{"roomTemp":"77","roomHumidity":"50","roomLightHr":"18","roomLightHt":"19","totalWater":null,"nutrients":[{"name":"Grow B.","amt":0,"checked":false},{"name":"Big Bl.","amt":0,"checked":false},{"name":"Tiger Bl.","amt":0,"checked":false},{"name":"Sea 90","amt":0,"checked":false},{"name":"Protein","amt":0,"checked":false}],"soil":[{"name":"Aerate","amt":0,"checked":false}],"roomMsg":"Holding everything in veg to let the smaller plants catch up in height\nMay LST","entryTime":"11:51:22:623","entryDate":"2016/2/27"}]
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "7",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "8",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "9",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "10",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "11",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "12",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "13",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}, {
+				"week": "14",
+				"entries": [{
+						"day": 1,
+						"data": []
+					}, {
+						"day": 2,
+						"data": []
+					}, {
+						"day": 3,
+						"data": []
+					}, {
+						"day": 4,
+						"data": []
+					}, {
+						"day": 5,
+						"data": []
+					}, {
+						"day": 6,
+						"data": []
+					}, {
+						"day": 7,
+						"data": []
+					}]
+			}]
+		}]
+	}, {
+		"roomID": 2,
+		"enviroment": [{
+		}]
+	}],
+	"plants": [{
+		"plantID": 1,
+		"plantName": "Jack Herer",
+		"plantDesc": "(Blacskull)",
+		"plantType": "Sativa",
+		"stage": "_stage",
+		"start": "_start",
+		"end": "_end",
+		"img": "_image",
+		"plantData": [{
+			"week": "0",
+			"entries": [{
+				"day": 1,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}, 
+			{
+				"day": 2,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "",
+					"lightType": "",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"}]
+			},
+			{
+				"day": 3,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 4,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 5,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 6,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 7,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}]
+		}, {
+			"week": "0B",
+			"entries": [{
+				"day": 1,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}, 
+			{
+				"day": 2,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "",
+					"lightType": "",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"}]
+			},
+			{
+				"day": 3,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 4,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 5,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 6,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 7,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}]
+		}, {
+			"week": "1",
+			"entries": [{
+				"day": 1,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}, 
+			{
+				"day": 2,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "",
+					"lightType": "",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"}]
+			},
+			{
+				"day": 3,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 4,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 5,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 6,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 7,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}]
+		}, {
+			"week": "2",
+			"entries": [{
+				"day": 1,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}, 
+			{
+				"day": 2,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "",
+					"lightType": "",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"}]
+			},
+			{
+				"day": 3,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 4,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 5,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 6,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			},
+			{
+				"day": 7,
+				"data": [{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "good",
+					"lightType": "afternoon",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "sprouts progressing, unsure of sexing",
+					"entryTime":"10:5:8:856",
+					"entryDate":"2016/1/14"
+				}]
+			}]
+		}]
+	}, {
+		"plantID": 2,
+		"plantName": "_nameB",
+		"desc": "_company",
+		"stage": "_stage",
+		"start": "_start",
+		"end": "_end",
+		"img": "_image",
+		"plantData": []
+	}]
+	}]
+}]

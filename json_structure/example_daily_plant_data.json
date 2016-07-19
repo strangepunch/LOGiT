@@ -1,0 +1,37 @@
+{
+					"plantWater": 0,
+					"plantPPM": 0,
+					"plantPH": 0,
+					"plantHeight": "0",
+					"plantCond": "",
+					"lightType": "",
+					"pruning": [{
+						"name": "FIM",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Top",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "sCrop",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "LST",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}, {
+						"name": "Fan",
+						"tier": 0,
+						"times": 0,
+						"checked": false
+					}],
+					"plantMsg": "",
+					"entryTime": "8:24:24:174",
+					"entryDate": "2016/2/21"
+				}

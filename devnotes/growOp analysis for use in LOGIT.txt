@@ -1,0 +1,28 @@
+growOp analysis for use in LOGIT
+
+
+1. plantAddView = new log view
+  **use this as the main new log screen when the plus butn is tapped
+
+  -use user selected values instead of form based input to assign variables based on selection from subScreen (ingestion method, efffects, taste)
+
+ 2. plantView = this is the actual log screen where you can see and overview of the logs that have been created
+
+ 3. plantViewCtrl.js
+  **leverage this to create and store the log object
+
+ 4. make plant add view the default view instead of inputPlantDet.html to make adding a log the main focus
+
+ 5. remove references to the slide out menu, not needed
+
+ 6. use close function attached to minus sign on plantAddView to close subviews and return to a former view (currently plantView.html)
+
+ 7. automatically timestamp each log entry for later use in trend analysis and weekly reviews
+
+ 8. use image based display approach in Tempz for main display of ingestion method, effect, flavor (or optimize to retrieve from localObject)
+
+ 9. 
+
+
+
+
