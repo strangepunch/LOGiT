@@ -35,9 +35,10 @@
     	
     	//temp storage for field placeholder text - placeholders 
     	vm.placeholders = {
-		    logMethod: "How did you consumed?",
-		    logStrain: "Choose the strain.",
-		    logEffect: "How did you feel?"
+		    logMethod: "Today when I...",
+		    logStrain: "Some Cannabis called:",
+		    logEffect: "I felt...",
+		    logFxRequest: "I'd like to feel..." //temporary placeholder for effect selection
 	    };
 
     	//input variables
@@ -46,7 +47,8 @@
 			logStrain: null,
 			logEffect: null,
 			logDate: {year: _YYYY, month: _MM, day: _DD},
-			logTime: {hr: _hr, min: _min, sec: _sec, mSec: _mSec}
+			logTime: {hr: _hr, min: _min, sec: _sec, mSec: _mSec},
+			logFxRequest: null //temp placeholder for effect screen selection
 	    };
 	    
 	    //btn variables
@@ -89,7 +91,7 @@
 				        					 vm.inputData.logDate, 
 				        					 vm.inputData.logTime);
 				    vm.addButtonStyle = "btn-success";
-		        	vm.errorMessage = "Log Saved. ";
+		        	vm.errorMessage = "Personal tuning complete. ";
 		        	refreshScreen();
 				}else{
 					alert("Missing selection!");
